@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "53968845460a35dc7889ba2a",
+  "owner": "fkugcv",
+  "repo": "page-82026ccde88bf0679d9e6eff",
+  "title": "小火龙",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "82026ccde88bf0679d9e6eff",
+      "a": "小火龙",
+      "b": "机场官网线路发布页",
+      "entity": "小火龙",
+      "brand": "小火龙",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3e710c57fa50fe728fe91289ddd82b4afdffc6262fd713961cdf2d34957e5a89",
+      "content": {
+        "primary_entity": "小火龙",
+        "keyword1": "小火龙",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端：手机、电脑与路由器各有对应方案。",
+          "AI_CLIENTS_TITLE": "客户端按设备挑选",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，导入订阅就能开始使用。",
+          "AI_CLOSING_TITLE": "开始配置小火龙",
+          "AI_DESCRIPTION": "，小火龙提供基础版、旗舰版、团队版三档套餐，月付与年付可选，覆盖 3 至 20 台设备，节点池从普通线路到 IPLC 专线。根据设备数量、月流量和流媒体需求挑一档，再按手机或电脑客户端导入订阅即可。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版最多支持 20 台。如果手机、平板、电脑都要同时用，建议选旗舰版或团队版。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。只看视频、刷网页选基础版足够，经常看高清流媒体或下载，建议旗舰版以上。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算：基础版年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。长期使用选年付可以省下几个月费用。",
+          "AI_FAQ_ANSWER_4": "手机端可选 Shadowrocket、Clash for Android 等；电脑端可用 Clash Verge、v2rayN 等。路由器可配合 OpenWrt 插件。具体以客户端自身文档为准。",
+          "AI_FAQ_ANSWER_5": "订阅地址导入后，在客户端里更新一次节点列表即可。如果部分节点不可用，切换线路或稍后重试通常能恢复。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "每月流量不够用怎么办？",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "手机和电脑分别用什么客户端？",
+          "AI_FAQ_QUESTION_5": "订阅导入后节点不显示怎么办？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和线路类型三个角度对比小火龙套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按同时在线设备数挑选档位。",
+          "AI_FEATURE_TEXT_2": "基础版 100GB、旗舰版 300GB、团队版 1000GB，流量需求决定套餐档位。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线，游戏加速延迟更稳；团队版提供 VIP 高带宽节点。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "月流量",
+          "AI_FEATURE_TITLE_3": "线路质量",
+          "AI_GUIDE_INTRO": "三步完成小火龙订阅配置：选服务、查适配、配客户端。",
+          "AI_GUIDE_TITLE": "快步配置指南",
+          "AI_HERO_INTRO": "小火龙提供基础版、旗舰版、团队版三档海外加速套餐，月付与年付可选，覆盖 3 到 20 台设备同时在线。从普通线路到 IPLC 专线，按自己的设备数量和流量需求挑一档，导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "三档套餐适配不同设备与流量",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月起，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线，5 台设备",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备，1000GB 流量",
+          "AI_PLANS_INTRO": "基础版适合轻量设备，旗舰版兼顾流媒体与游戏，团队版面向多设备高流量。年付可省数月费用。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "对照设备数量与月流量，从基础版、旗舰版、团队版中选一档并确认计费周期。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的客户端类型和设备要求，确认手机或电脑可以安装对应软件。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅地址，更新节点列表后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "小火龙套餐与客户端配置"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zhangdong25.cn",
+    "host": "zhangdong25.cn"
+  },
+  "file_hashes": {
+    "index.html": "da4ae8527ce6a8e100810c9aeb679e8f8841d6ad48c056a931c953bb879a9a58",
+    "sitemap.xml": "b9ac76c1b62b9dda982ee9f76ca2d7fbf6b673e38bdd204513eb691d17315cc5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9e62b971554bb7b4d6a9ededa1b8e447db5e7657b0762fae70f7239e691ea88b",
+    "robots.txt": "f3cbe6845c04009a1e0137b372b7fbb099f7b6e254a0e2b02139d82b425c92d3",
+    "4e6dcb58bef3967413be1576df21978e.txt": "1eae7b4b34df2ff356bb33aaee291cc7dd27dbb34fef6e73ff736724356e0c43"
+  },
+  "revision": "38f8ffdb08f8aaa80e9ca55fd1b2903e7f62734b38287428ecb7d5038f4c07d6"
+}
